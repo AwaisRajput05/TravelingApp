@@ -8,12 +8,11 @@ function Home() {
   const [startDate, setStartDate] = useState('');
   const [endDate, setEndDate] = useState('');
   const [guest, setGuest] = useState(1);
-  const [room, setRoom] = useState(1);
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
     // You can handle search logic here
-    alert(`Location: ${location}\nStart: ${startDate}\nEnd: ${endDate}\nGuest: ${guest}\nRoom: ${room}`);
+    alert(`Location: ${location}\nStart: ${startDate}\nEnd: ${endDate}\nGuest: ${guest}`);
   };
 
   return (

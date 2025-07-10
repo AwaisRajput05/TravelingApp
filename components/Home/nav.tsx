@@ -1,5 +1,5 @@
 "use client";
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { FaRegCompass } from 'react-icons/fa6';
 import { HiMenu, HiX } from 'react-icons/hi';
 
