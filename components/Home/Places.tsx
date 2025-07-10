@@ -52,24 +52,23 @@ export function Places() {
               key={index}
               className="basis-full sm:basis-1/2 md:basis-1/3 lg:basis-1/4 pl-2 md:pl-4"
             >
-              <Link href={`/places/${place.slug}`} passHref>
-                <Card className="overflow-hidden rounded-2xl shadow-md hover:scale-105 transition-transform duration-300 bg-transparent border-0">
-                  <CardContent className="p-0">
-                    <div className="w-full h-[400px]">
-                      <img
-                        src={place.src}
-                        alt={`Place ${index + 1}`}
-                        className="w-full h-full object-cover"
-                        style={{ display: "block" }}
-                      />
-                    </div>
-                    <div>
-                      <p className="text-center text-2xl font-bold text-gray-800 py-3">{place.label}</p>
-                      <p className="text-sm text-gray-800">{place.text}</p>
-                    </div>
-                  </CardContent>
-                </Card>
-              </Link>
+              {/* Ab sirf Card render karein: */}
+              <Card className="overflow-hidden rounded-2xl shadow-md hover:scale-105 transition-transform duration-300 bg-transparent border-0">
+                <CardContent className="p-0">
+                  <div className="w-full h-[400px]">
+                    <img
+                      src={place.src}
+                      alt={`Place ${index + 1}`}
+                      className="w-full h-full object-cover"
+                      style={{ display: "block" }}
+                    />
+                  </div>
+                  <div>
+                    <p className="text-center text-2xl font-bold text-gray-800 py-3">{place.label}</p>
+                    <p className="text-sm text-gray-800">{place.text}</p>
+                  </div>
+                </CardContent>
+              </Card>
 
             </CarouselItem>
           ))}
