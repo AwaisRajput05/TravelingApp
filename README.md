@@ -28,6 +28,20 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<img width="1352" height="586" alt="image" src="https://github.com/user-attachments/assets/beca2d07-4b8f-4597-9bbd-f4bab4bd277d" />
+<img width="1341" height="540" alt="image" src="https://github.com/user-attachments/assets/c410e16d-da61-4161-8392-7a822e3fa45d" />
+<img width="1351" height="531" alt="image" src="https://github.com/user-attachments/assets/0d56cbcc-a8f1-4384-aad9-a1bd3672c88b" />
+<img width="1366" height="391" alt="image" src="https://github.com/user-attachments/assets/f5aaec88-b3f9-41fe-85cb-3f6de653c258" />
+<img width="1357" height="503" alt="image" src="https://github.com/user-attachments/assets/1602b0a7-c743-40f2-9eea-4c4ef70c28c7" />
+<img width="1352" height="481" alt="image" src="https://github.com/user-attachments/assets/c3fb69d5-7d82-49a1-bee4-2849134a6fe9" />
+<img width="1355" height="552" alt="image" src="https://github.com/user-attachments/assets/6915e5c2-1d65-4441-80d1-42c5754123e5" />
+
+
+
+
+
+
+
 
 ## Deploy on Vercel
 
